@@ -23,4 +23,4 @@ if(var1 instanceof String)
 Complete the implementation of the main program so that it describes
 the type of object that is randomly generated, e.g.,
 
-Dishwasher  Model Number xxxxxx
+Dishwasher  Model Number 1243023
