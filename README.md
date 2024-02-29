@@ -6,11 +6,12 @@
 
 **The instanceof Operator in Java**<br>
 Java provides an operator called `instanceof` that lets one determine
-what type a given object is.  In this practicum, we declare a variable
-of type Object. Ths variable, therefore, can be assigned to any object
-of any type (since all objects inherir from the Object class, and thuis
+what type a given object is during program execution.  
+In this practicum, we declare a variable
+of type Object. The variable, therefore, can be assigned to any object
+of any type (since all objects inherit from the Object class, and thuis
 all objects are of type Object). A random number generator is then used
-to assign the variable an object of type Dishwasher, Toaster or Oven.
+to randomly assign the variable either an object of type Dishwasher, Toaster or Oven.
 
 Example use of the `instanceof` operator is given below,
 
