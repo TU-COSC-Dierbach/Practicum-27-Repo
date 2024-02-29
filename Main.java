@@ -5,7 +5,9 @@ public class Main {
 
     Object obj = null;
     Random rand = new Random();
-    int n = rand.nextInt(1,3);
+
+    // generate random number from up to but excluding 4
+    int n = rand.nextInt(1, 4);
 
     switch(n) {
       case 1: obj = new Dishwasher("1243023"); break;
