@@ -15,7 +15,7 @@ to assign the variable an object of type Dishwasher, Toaster or Oven.
 Example use of the `instanceof` operator is given below,
 
 ```
-// to determine if the object assigned to var1 is of type Strong
+// to determine if the object assigned to var1 is of type String
 if(var1 instanceof String)
   System.out.println("var1 contains a String type");
 ```
