@@ -1,6 +1,6 @@
 # Instructions  
 
-## PRACTICUM 27 - Using the instanceof Operator (3 pts.)<br>
+## PRACTICUM 27 - Using the instanceof Operator<br>
 
 ### BACKGROUND
 
